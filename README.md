@@ -1,9 +1,9 @@
-`import random`
-`randomlist = []`
-`for i in range(0,5):`
-    `n = random.randint(1,200)`
-    `randomlist.append(n)`
-`print(randomlist)`
+import random
+randomlist = []
+for i in range(0,5):
+    n = random.randint(1,200)
+    randomlist.append(n)
+print(randomlist)
 
 
 ![Header](https://res.cloudinary.com/moonclerk/image/upload/v1589814003/git-header_njliva.jpg)
